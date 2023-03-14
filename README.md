@@ -15,4 +15,4 @@ In order to detect and extract total amount TTC information on receipt document,
  - mask*: image with 1 for the position of 'total' in the receipt, and 0 elsewhere.
 
 
-**Keywords:** Deep Learning, PyTorch, NLP, NLTK, Text processing, OCR, Pytesseract, Image, Information Retreival
+**Keywords:** Deep Learning, PyTorch, NLP, NLTK : Natural Language Toolkit (used for NLP) , Text processing, OCR, Pytesseract, Image, Information Retreival
